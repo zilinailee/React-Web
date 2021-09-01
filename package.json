@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "http://zilinailee.github.io/React-Web"
+  "homepage": "http://zilinailee.github.io/React-Web",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
