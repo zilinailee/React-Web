@@ -64,7 +64,7 @@ export default function BasicExample() {
 function Dashboard() {
   return (
     <div>
-      <h2>Dashboard</h2>
+      <h2>Dashboard Hello</h2>
     </div>
   );
 }
