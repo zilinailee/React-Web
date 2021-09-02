@@ -29,7 +29,7 @@ export default function BasicExample() {
             <Link to="/profile">Profile</Link>
           </li>
           <li>
-            <Link to="/dashboard">Dashboard</Link>
+            <Link to="/dashboard">Hi</Link>
           </li>
         </ul>
 
